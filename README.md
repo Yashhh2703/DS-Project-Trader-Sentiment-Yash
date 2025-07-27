@@ -7,8 +7,7 @@ The analysis explores patterns in trading volume, profitability (PnL), and buy/s
 ---
 
 ## 📁 Folder Structure
-
-'''ds_yash_yadav/
+ds_yash_yadav/
 ├── notebook_1.ipynb              # Main analysis in Google Colab
 ├── csv_files/
 │   └── merged_trader_sentiment.csv  # Cleaned and merged dataset
@@ -16,7 +15,7 @@ The analysis explores patterns in trading volume, profitability (PnL), and buy/s
 │   ├── volume_by_sentiment.png      # Barplot of trade volume
 │   ├── avg_pnl_by_sentiment.png     # Barplot of average PnL
 │   └── side_by_sentiment.png        # Buy/Sell comparison
-└── ds_report.pdf                 # Final insights report with visuals'''
+└── ds_report.pdf                 # Final insights report with visuals
 
 ---
 
