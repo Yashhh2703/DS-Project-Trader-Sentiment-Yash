@@ -38,7 +38,6 @@ These findings suggest that traders behave more cautiously and profitably during
 ## 🔗 Important Links
 
 - 📓 [Google Colab Notebook](INSERT_YOUR_COLAB_LINK_HERE)
-- 📁 [Dataset Source Links](https://github.com/Yashhh2703/DS-Project-Trader-Sentiment-Yash))
 
 ---
 
