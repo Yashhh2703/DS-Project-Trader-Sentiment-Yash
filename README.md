@@ -4,21 +4,6 @@ This project analyzes how market sentiment (Fear, Greed, Neutral) influences tra
 
 The analysis explores patterns in trading volume, profitability (PnL), and buy/sell behavior by aligning historical trade data with the Bitcoin Fear & Greed Index.
 
----
-
-## 📁 Folder Structure
-
-echo "ds_yash_yadav/"
-echo "├── notebook_1.ipynb              # Main analysis in Google Colab"
-echo "├── csv_files/"
-echo "│   └── merged_trader_sentiment.csv  # Cleaned and merged dataset"
-echo "├── outputs/"
-echo "│   ├── volume_by_sentiment.png      # Barplot of trade volume"
-echo "│   ├── avg_pnl_by_sentiment.png     # Barplot of average PnL"
-echo "│   └── side_by_sentiment.png        # Buy/Sell comparison"
-echo "└── ds_report.pdf                 # Final insights report with visuals"
-
----
 
 ## 📊 Key Findings
 
